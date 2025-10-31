@@ -38,3 +38,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 2. Under "Source", select "GitHub Actions"
 3. The workflow will automatically deploy on pushes to the `main` branch
 4. Your site will be published at `https://<your-github-username>.github.io/<repository-name>/`
+
+# Refactoring
+
+1. Unclear variable names - fixed by giving moer meaningful names such as 'counter' and 'title' instead of 'c' and 'h'
