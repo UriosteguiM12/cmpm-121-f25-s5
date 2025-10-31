@@ -4,7 +4,9 @@
 let counter = 0;
 
 // These constants are for button IDs and heading text
-const incrementButton = "increment", counterButton = "counter", title = "CMPM 121 Project";
+const incrementButton = "increment",
+  counterButton = "counter",
+  title = "CMPM 121 Project";
 
 function setup() {
   // Create the HTML for the counter
