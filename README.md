@@ -41,4 +41,5 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 
 # Refactoring
 
-1. Unclear variable names - fixed by giving moer meaningful names such as 'counter' and 'title' instead of 'c' and 'h'
+1. Unclear variable names - fixed by giving more meaningful names such as 'counter' and 'title' instead of 'c' and 'h'
+2. Reduce duplicated code - fixed by consolidating increment, decrement, and reset button logic into a single dynamic handler.
